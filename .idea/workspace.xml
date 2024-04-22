@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="072de743-b2cf-408d-a319-41600a4403d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/striver problems/src/com/striver/arrays/MergeTwoSortedArrayWithoutSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/striver problems/.project" beforeDir="false" afterPath="$PROJECT_DIR$/striver problems/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/striver problems/src/com/striver/arrays/MergeTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/striver problems/src/com/striver/arrays/MergeTwoSortedArrayWithExtraSpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/striver problems/src/com/striver/arrays/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/striver problems/src/com/striver/arrays/MissingNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/striver problems/src/com/striver/arrays/StockBuyAndSell_2_Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/striver problems/src/com/striver/arrays/StockBuyAndSell_2_Transaction.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;avirup2405&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="28e80353-b3a7-4751-82b6-40c0646f131e" />
+        <option name="url" value="https://github.com/avirup2405/ds-algo-prep.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2fNH02yrO7Er7Jkkf3CxHoG8RyL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DutchFlagProblem.executor": "Run",
+    "Application.MergeTwoSortedArrayWithExtraSpace.executor": "Run",
+    "Application.MergeTwoSortedArrayWithoutSpace.executor": "Run",
+    "Application.StockBuyAndSell_1_Transaction.executor": "Run",
+    "Application.StockBuyAndSell_2_Transaction.executor": "Run",
+    "Maven.striver.sde.sheet [install].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dsa-prep/Striver DSA prep/ds-algo-prep",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MergeTwoSortedArrayWithoutSpace">
+    <configuration name="DutchFlagProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.striver.arrays.DutchFlagProblem" />
+      <module name="striver.sde.sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.striver.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoSortedArrayWithExtraSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.striver.arrays.MergeTwoSortedArrayWithExtraSpace" />
+      <module name="striver.sde.sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.striver.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeTwoSortedArrayWithoutSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.striver.arrays.MergeTwoSortedArrayWithoutSpace" />
+      <module name="striver.sde.sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.striver.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockBuyAndSell_1_Transaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.striver.arrays.StockBuyAndSell_1_Transaction" />
+      <module name="striver problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.striver.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockBuyAndSell_2_Transaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.striver.arrays.StockBuyAndSell_2_Transaction" />
+      <module name="striver problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.striver.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MergeTwoSortedArrayWithoutSpace" />
+        <item itemvalue="Application.MergeTwoSortedArrayWithExtraSpace" />
+        <item itemvalue="Application.DutchFlagProblem" />
+        <item itemvalue="Application.StockBuyAndSell_1_Transaction" />
+        <item itemvalue="Application.StockBuyAndSell_2_Transaction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-azul-11.0.22-3183f394aec4-a26208f5" />
+        <option value="jdk-19.0.2-corretto-19.0.2-4caba194b151-48ba4555" />
+        <option value="jdk-21.0.2-azul-21.0.2-4caba194b151-38275579" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="072de743-b2cf-408d-a319-41600a4403d1" name="Changes" comment="" />
+      <created>1713634395215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713634395215</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/striver problems/src/com/striver/arrays/MergeTwoSortedArrayWithExtraSpace.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ds_algo_prep$MergeTwoSortedArrayWithoutSpace.ic" NAME="MergeTwoSortedArrayWithoutSpace Coverage Results" MODIFIED="1713811691317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.striver.arrays.*</FILTER>
+    </SUITE>
+  </component>
+</project>
